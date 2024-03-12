@@ -1,0 +1,7 @@
+keyboard
+pynput
+pyautogui
+Pillow
+ironpdf
+pymongo
+easyocr

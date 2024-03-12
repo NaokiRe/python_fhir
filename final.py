@@ -13,13 +13,10 @@ import pyautogui
 import tkinter as tk
 from tkinter import filedialog, simpledialog
 from PIL import Image, ImageTk, ImageGrab
-import os
 import ironpdf
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 import json
-# import fitz
-# from PyPDF2 import PdfFileReader
 import secrets
 import string
 from datetime import datetime
