@@ -1,6 +1,9 @@
 # final.py
 
 This is the main script for our PDF Reader application.
+Created for UCL ENGF0034 - Scenario 2 Coursework
+
+Group 30 - Kiminao Usami, Kostas Demiris, Sameer Chowdhury, Libo Chen 
 
 ## Description
 
